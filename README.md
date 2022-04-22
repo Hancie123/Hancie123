@@ -43,5 +43,12 @@
   <li>PHP</li>
   <li>C++</li>
   </ul>
+  
+  ## 📊My Github Stats
+
+ 
+![Hancie's github stats](https://github-readme-stats.vercel.app/api?username=Hancie123&show_icons=true&count_private=true&theme=dark)
+[![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancie123&show_icons=true&count_private=true&theme=dark)](https://github.com/Hancie123/github-readme-stats)
+
 
   <!--END_SECTION:endorsements-->
