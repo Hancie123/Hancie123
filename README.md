@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Hancie123" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=hancie_phago&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40Hancie&style=social"></a>  •
-  <a href="https://hamronepalihealth.blogspot.com/">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=hancie_phago&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/Hancie123/README">Work README</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=hancie_phago&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/hancie_phago?label=%40Hancie&style=social"></a>  •
+  <a href="https://hamronepalihealth.blogspot.com/">Health Blog</a> •
+  <a href="https://www.hancie-phago.com.np/">Hancie e-Store</a> •
+  <a href="https://www.phagohancie.com.np/">Hancie e-Learning Studio</a> •
   <a href="https://hanciephago.com.np/">My Website</a>
 </p>
 
@@ -44,11 +44,17 @@
   <li>C++</li>
   </ul>
   
+   ## 🪶My Repositories Stats
+   
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hancie123" alt="Hancie Phago" /></a> </p>
+  
   ## 📊My Github Stats
 
  
 ![Hancie's github stats](https://github-readme-stats.vercel.app/api?username=Hancie123&show_icons=true&count_private=true&theme=dark)
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancie123&show_icons=true&count_private=true&theme=dark)](https://github.com/Hancie123/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hancie123&" alt="saileshrokaya" /></p>
 
 
   <!--END_SECTION:endorsements-->
