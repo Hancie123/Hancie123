@@ -54,7 +54,7 @@
 ![Hancie's github stats](https://github-readme-stats.vercel.app/api?username=Hancie123&show_icons=true&count_private=true&theme=dark)
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancie123&show_icons=true&count_private=true&theme=dark)](https://github.com/Hancie123/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hancie123&" alt="saileshrokaya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hancie123&" alt="Hancie Phago" /></p>
 
 
   <!--END_SECTION:endorsements-->
