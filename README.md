@@ -1,17 +1,15 @@
 <!--<h3 align="center">
-![Picture1](https://user-images.githubusercontent.com/24699685/156102306-37f7998a-8965-47ea-a866-b9c46fed2847.png)
-</h3> -->
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=hancie123&data=followers,repositories,stars,commits'>
+</p>
 
-[![160744959694494596](https://user-images.githubusercontent.com/24699685/156102306-37f7998a-8965-47ea-a866-b9c46fed2847.png)](https://github.com/Hancie123?tab=repositories)
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Hancie123" alt="profile views"> •  
+<p align="center"> 
   <a href="https://twitter.com/intent/follow?screen_name=hancie_phago&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/hancie_phago?label=%40Hancie&style=social"></a>  •
   <a href="https://hamronepalihealth.blogspot.com/">Health Blog</a> •
   <a href="https://www.hancie-phago.com.np/">Hancie e-Store</a> •
   <a href="https://www.phagohancie.com.np/">Hancie e-Learning Studio</a> •
-  <a href="https://hanciephago.com.np/">My Website</a>
-  <a href="https://www.hancie-phago.com.np/">InfoLocket</a>
+  <a href="https://hanciephago.com.np/">My Website</a>•
+  <a href="https://www.hancie-phago.com.np/">InfoLocket</a>•
 </p>
 
 ---
@@ -46,12 +44,7 @@
   <li>Laravel</li>
   </ul>
 
-  
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=hancie123&data=followers,repositories,stars,commits'>
-</p>
-  
    ## 🪶My Repositories Stats
    
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hancie123" alt="Hancie Phago" /></a> </p>
