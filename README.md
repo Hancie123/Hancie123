@@ -11,6 +11,7 @@
   <a href="https://www.hancie-phago.com.np/">Hancie e-Store</a> •
   <a href="https://www.phagohancie.com.np/">Hancie e-Learning Studio</a> •
   <a href="https://hanciephago.com.np/">My Website</a>
+  <a href="[https://hanciephago.com.np/](https://www.hancie-phago.com.np/)">My Website</a>
 </p>
 
 ---
