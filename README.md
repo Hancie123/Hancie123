@@ -34,8 +34,6 @@
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>Java</li>
   <li>Python</li>
   <li>mySQL</li>
@@ -43,6 +41,8 @@
   <li>PHP</li>
   <li>C++</li>
   <li>Laravel</li>
+  <li>Nestjs</li>
+  <li>Typescript</li>
   </ul>
 
 
