@@ -47,20 +47,22 @@ I would like to add you to my professional network on GitHub.
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hancie123&theme=dark&no-frame=true&margin-w=10" alt="Hancie Phago" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hancie123&theme=dark&no-frame=true&margin-w=10" alt="Hancie Phago Trophies" />
   </a>
 </p>
 
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hancie123&show_icons=true&count_private=true&theme=dark" alt="Hancie's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hancie123&theme=github_dark" alt="Hancie's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hancie123&theme=github_dark" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hancie123&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hancie123&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hancie123&theme=github_dark" alt="Productive Time" />
 </p>
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Hancie123&theme=dark" alt="Hancie Phago Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hancie123&theme=dark" alt="Hancie Phago Streak" />
 </p>
 
 <!--END_SECTION:endorsements-->
