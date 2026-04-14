@@ -43,6 +43,53 @@ I would like to add you to my professional network on GitHub.
 - NestJS
 - TypeScript
 
+---
+
+## 🏢 Organization — Mero Vision Pvt. Ltd.
+
+<p align="left">
+  <a href="https://github.com/Mero-Vision">
+    <img src="https://img.shields.io/badge/GitHub-Mero--Vision-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://merovision.com/">
+    <img src="https://img.shields.io/badge/Website-merovision.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/merovision720">
+    <img src="https://img.shields.io/twitter/follow/merovision720?label=%40merovision720&style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/company/mero-vision">
+    <img src="https://img.shields.io/badge/LinkedIn-Mero Vision-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+> 🇳🇵 IT company based in Nepal · Founded 2022 · Android, Desktop & Web Applications
+
+### 📦 Organization Repositories
+
+<p align="left">
+  <a href="https://github.com/Mero-Vision/recruzen_api_swagger">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mero-Vision&theme=github_dark" alt="Mero Vision Org Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mero-Vision">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mero-Vision&theme=dark&no-frame=true&margin-w=10&column=4" alt="Mero Vision Trophies" />
+  </a>
+</p>
+
+### 🔗 Featured Org Projects
+
+| Project | Description |
+|---|---|
+| [Recruzen](https://github.com/Mero-Vision/recruzen_api_swagger) | HR & Recruitment SaaS Platform |
+| [Skulix](https://github.com/Mero-Vision/skulix_api_swagger) | School Management System |
+| [Mero Hostel](https://github.com/Mero-Vision/mero_hostel_swagger) | Hostel Management System |
+| [Cartyne](https://github.com/Mero-Vision/cartyne_api_swagger) | E-Commerce Platform |
+| [Mero Cloud School](https://github.com/Mero-Vision/mero_cloud_school_api_swagger) | Cloud-based School API |
+
+---
+
 ## 🪶 My Repositories Stats
 
 <p align="left">
